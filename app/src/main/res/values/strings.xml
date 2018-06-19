@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Listview2</string>
+    <string name="phone">PHONE</string>
+    <string name="states">STATES</string>
+    <string name="submit_n_save">Submit N Save</string>
+    <string name="country">COUNTRY</string>
+    <string name="enter_phone_no">enter phone no</string>
+
 </resources>
